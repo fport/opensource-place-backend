@@ -33,7 +33,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react": "^7.37.3",
     "express": "^4.17.1",
     "got": "^11.8.1",
     "graphql": "^15.4.0",
