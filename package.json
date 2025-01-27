@@ -37,7 +37,7 @@
     "express": "^4.17.1",
     "got": "^11.8.1",
     "graphql": "^15.4.0",
-    "mongoose": "^5.11.8",
+    "mongoose": "^5.13.23",
     "nodemon": "^2.0.6",
     "prettier": "^2.2.1"
   },
